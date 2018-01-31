@@ -1,6 +1,6 @@
 # CSharp helper
 
-#List of Methods:
+# List of Methods:
 1. Console.WriteLine()
 2. Console.Write()
 3. Console.ReadLine()
