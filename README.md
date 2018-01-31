@@ -5,6 +5,8 @@
 2. string = string
 3. double
 
+* Operators
+
 # List of Methods:
 1. Console.WriteLine()
 2. Console.Write()
