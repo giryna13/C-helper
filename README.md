@@ -1,5 +1,10 @@
 # CSHARP HELPER
 
+# List of Types of Value:
+1. int = integer
+2. string = string
+3. double
+
 # List of Methods:
 1. Console.WriteLine()
 2. Console.Write()
