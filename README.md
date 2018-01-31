@@ -1,11 +1,16 @@
-# CSHARP HELPER
+# C# HELPER
 
 # List of Types of Value:
 1. int = integer
 2. string = string
 3. double
 
-* Operators
+# Operators:
+1. Addition = "+"
+2. Substraction = "-"
+3. Multiplication = "*"
+4. Division = "/"
+5. Modulus "%"
 
 # List of Methods:
 1. Console.WriteLine()
