@@ -1,4 +1,4 @@
-# CSharp helper
+# CSHARP HELPER
 
 # List of Methods:
 1. Console.WriteLine()
