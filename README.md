@@ -13,7 +13,7 @@
 5. Modulus "%"
 
 # List of Methods:
-1. Console.WriteLine()
+1. Console.WriteLine() // cw+tab+tab - short keywords to write Console.WriteLine()
 2. Console.Write()
 3. Console.ReadLine() - returns a string value
 4. Convert.ToXXX() - converts type of value to another type of value, for Example: Convert.ToInt32 (XXX is the .NET name of the type that we want to convert to)
